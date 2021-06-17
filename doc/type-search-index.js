@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"miniproject","l":"Client"},{"p":"miniproject","l":"Server.ClientInfo"},{"p":"miniproject","l":"Constants"},{"p":"miniproject","l":"GuiView"},{"p":"miniproject","l":"Server"},{"p":"miniproject","l":"Client.TimerThread"}];updateSearchResults();
